@@ -1,5 +1,5 @@
 # Parabolic-Partial-Differential-Equation
-The goal of this project is to find the numerical solution of a parabolic partial differential equation using the method of lines. This parabolic partial differential equation is a stiff problem. 
+The goal of this project is to find the numerical solution of a parabolic partial differential equation using the method of lines. This parabolic partial differential equation is a stiff problem. I and Suh worked on this project together.
 
 # Project Description
 The project is organized in two parts:
