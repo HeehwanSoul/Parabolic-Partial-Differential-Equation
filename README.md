@@ -8,9 +8,9 @@ The project is organized in two parts:
 
 The forward and backward Euler methods are implemented in _odesolver.py_. These methods are used to solve a parabolic partial differential equation.
 
-**2. Report of the Project:**
+**2. Jupyter Notebook:**
 
-The report of this poject is written in _Report-Parabolic-Partial-Diffential-Equation.ipynb_. The relation between stiffness and eigenvalues is explained, the result of the experiment with forward(explicit) and backward(implicit) Euler Methods are reported, and in addition the convection-diffusion equation is solved.
+The relation between stiffness and eigenvalues is explained and the result of the experiment with forward(explicit) and backward(implicit) Euler Methods are reported. In addition, the convection-diffusion equation is solved.
 
 # Contents
 The repository contains the following:
