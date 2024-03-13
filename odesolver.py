@@ -4,8 +4,7 @@ Numerische Mathematik 3 WiSe2023, Prof Hausser
 modul <odesolver>
 Heewhan Soul, Hajin Suh
 
-This module includes some numerical method to solve the differential equations.
-Some basic methods are implemented by Professor Hausser but we added here to use in the project properly.
+This module includes some numerical methods to solve differential equations.
 
 0. class ODEResult: The functions of differential equation solver following will be constructed with identical 
                                 structure and attribute. This class defines them.
